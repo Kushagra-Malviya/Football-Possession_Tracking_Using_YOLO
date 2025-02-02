@@ -1,0 +1,2 @@
+This project aims to revolutionize football analysis using advanced AI/ML techniques. By leveraging YOLO for object detection, OpenCV for vision processing, and Python for data integration, the system captures and evaluates key game moments in real-time. The objective is to offer a robust tool for deeper tactical insights, player tracking, and enhanced performance analysis, empowering teams to optimize strategies and make informed decisions.
+
